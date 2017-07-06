@@ -1,0 +1,4 @@
+vendor/*
+*.class
+*.war
+*.jar
